@@ -25,3 +25,9 @@ api-clientes/
     ├── produtos.js
     ├── usuarios.js
     └── pedidos.js
+ 
+## texte postman
+
+sistema_clientes.postman_collection.json
+
+
